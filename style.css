@@ -1,0 +1,114 @@
+
+.intro {
+  background-color: #FFFFFF;
+
+}
+
+.column1 {
+  background-color: #FFFFFF;
+}
+
+.column2 {
+  background-color: #FFFFFF;
+}
+
+.column3 {
+  background-color: #e8f4f8;
+
+}
+
+.seal {
+  margin-top: 15px;
+}
+
+.container-end {
+  margin-top: 40px;
+  padding-top: 20px;
+}
+
+
+
+.border1 {
+  border-radius: 10px;
+}
+
+.btn .btn-primary:hover {
+    background-color: #FFFFFF;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height:auto;
+}
+
+.carousel-text {
+  background: rgb(9,98,121);
+  background: linear-gradient(180deg, rgba(9,98,121,0.5886948529411764) 0%, rgba(0,212,255,0) 95%);
+  z-index: -10;
+}
+
+.title-top {
+  font-size: 10rem;
+  font-style: italic;
+}
+
+
+
+/* Parallex */
+.separator-type, .title-type, .intro-type, .content-type .intro-type p {
+    position: relative;
+}
+.intro-type .container {
+    padding: 107px 0px 102px 0px !important;
+}
+.company-heading h1 {
+    margin-bottom: 60px;
+    padding-bottom: 50px;
+    line-height: 80px;
+    color: #fff;
+    font-weight: 700 !important;
+    text-align: center;
+}
+.jumbo {
+  margin-top: 30px;
+}
+.seo-header, .product-header, .intro-type .container h1.white, .company-heading h1 {
+    font-weight: 100 !important;
+    text-transform: capitalize;
+    font-size: 55px;
+    margin-bottom: 20px;
+}
+.parallax {
+    background-attachment: inherit !important;
+}
+.parallax {
+    background-attachment: inherit !important;
+}
+.parallax {
+    background-attachment: inherit !important;
+    background-repeat: repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    width: 100%;
+    z-index: -10;
+}
+.ct-btn-scroll {
+    width: 49px;
+    height: 49px;
+    position: absolute;
+    bottom: 30px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    padding-top: 500px;
+    z-index: 9;
+    border-radius: 50%;
+    -webkit-transition: background-image 0.25s ease-in-out;
+    transition: background-image 0.25s ease-in-out;
+}
+img, figure {
+    max-width: 100%;
+}
+/* End Parallax */
